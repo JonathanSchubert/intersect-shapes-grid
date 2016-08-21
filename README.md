@@ -4,6 +4,7 @@
 Demo code for:
 - intersecting shapes/polygons with grid data
 - visualizing the results
+
 in Python (without PostGIS or other GIS software).
 
 For intersecting only matplotlib standard functionality was used. Shapely lib was also tested, but turned out to be slower.
