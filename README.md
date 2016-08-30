@@ -18,4 +18,6 @@ Instead of the used regular dummy grid data each other geo referenced point data
 ![Alt text](result.png?raw=true "Result")
 
 ### Source shape data
-http://www.suche-postleitzahl.org/downloads
+www.suche-postleitzahl.org/downloads
+
+Raw data: © OpenStreetMap contributors
